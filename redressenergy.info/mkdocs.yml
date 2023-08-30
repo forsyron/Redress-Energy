@@ -1,0 +1,10 @@
+site_name: Gumpo
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Intro: intro.md
+  - About: about.md
+  - Background: background.md
+  - New Engine: new_engine.md
+
+theme: readthedocs

@@ -1,0 +1,9 @@
+# Energy Cost (kWh)
+
+The REDRESS ‘container generator’ concept is designed to reduce the cost of clean energy. It is anticipated that once full scale manufacture is achieved, the transition to clean energy will be almost imperceptible to most Australians. So how will the transition to mass manufacture be achieved?
+
+Fortunately, the REDRESS container generator is of a size that can be installed at a customer premises. After sundown, the only current option for most customers is to purchase energy from the local network. However, depending on where in Australia a customer takes supply, that energy will cost at least 20c/kWh and sometimes more than 30c/kWh if supply is taken on a time-of-use network tariff. The REDRESS ‘container generators’ will offer a cheaper and cleaner alternative to purchasing energy from the network.
+
+The initial market for the generators will therefore be at locations where the customer otherwise has no alternative to purchasing energy from the network after sunset, and where the cost of that electricity is prohibitively expensive. It is also anticipated that the initial market scope will quickly include locations in Australia that currently do not have network supplies and also developing counties in Asia and Africa. This is expected to give a market of sufficient size to justify the development of the generator to a commercial level.
+
+From there, the focus will be on reducing the manufacturing costs through improvements to the design as well as automation of the manufacturing process. Ultimately, it is hoped that the cost of energy from container generators will be directly competitive with energy supplied by gas turbines or somewhere around 10c/kWh. At that point, Australia will be able to completely transition away from fossil fuels to a fully reliable and affordable clean energy future.
